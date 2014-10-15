@@ -27,6 +27,9 @@ body {
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing {
   background-repeat: no-repeat;
 }
+.sound-play {
+	background-clip: url('../sound/hadouken.mp3')
+}
 .hadouken {
   background-image: url('../images/hadouken.gif');
   width: 156px; 
